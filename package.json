@@ -1,0 +1,23 @@
+{
+  "name": "galen-api-handler",
+  "version": "1.0.0",
+  "description": "The Package used to call galen api's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkupadhyayannum/GalenAPILibrary.git"
+  },
+  "keywords": [
+    "Galen",
+    "Cardio"
+  ],
+  "author": "Cardio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkupadhyayannum/GalenAPILibrary/issues"
+  },
+  "homepage": "https://github.com/rkupadhyayannum/GalenAPILibrary#readme"
+}
